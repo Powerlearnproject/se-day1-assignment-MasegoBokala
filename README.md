@@ -71,3 +71,10 @@ Prompt engineering ensures generated content aligns with the designed tone, styl
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Vague Prompt
+"Tell me everything about the President of South Africa"
+
+Which President of South Africa?
+
+Solution: "Tell me everything about the current President of South Africa, Cyril Ramaphosa" 
+
